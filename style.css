@@ -1,4 +1,13 @@
 :root {
-    background-color:  #045f1b;
-    font-style: var(#fff);
+    --cor-de-fundo: #32CD32;
+    --verde: #008000;
+    --preta: #000;
+    --branco: #fff;
+    --azul: #6495ED;
 }
+
+body{
+    background-image: linear-gradient(#32CD32, #008000);
+}
+
+
