@@ -11,5 +11,14 @@ body{
 }
 
 .cabecalho{
-    
+    background-color: var(--cor-de-fundo);
+}
+
+.imagem-cabecalho{
+    width: 120px;
+}
+
+.titulo-cabecalho{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100px;
 }
