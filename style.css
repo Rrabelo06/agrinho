@@ -27,5 +27,5 @@ body{
 }
 .imagem-abaixo{
    display: flex;
-   align: center;
+   align-tracks:center;
 }
