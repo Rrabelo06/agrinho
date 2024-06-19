@@ -13,7 +13,7 @@ body{
 .cabecalho{
     background-color: var(--cor-de-fundo);
     display: flex;
-    align-items: center;
+    justify-content: space-around;
 }
 
 .imagem-cabecalho{
