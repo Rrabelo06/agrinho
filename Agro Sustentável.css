@@ -22,13 +22,13 @@ body{
 h2{
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
-    color: #fff;
+    color: #67cfff;
 }
 
 p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
-    color: #fff;
+    color: #fff
 }
 
 .imagem{
@@ -51,4 +51,19 @@ p{
     background-color: #00000000;
     color: #fff;
     width: 50px;
+}
+
+@media screen and (min-width: 768px) {
+    .botoes{
+        display: flex;
+    }
+    
+    .botao:first-child{
+        border-radius: 40px 0 0 0;
+    }
+    
+    .botao:last-child{
+        border-radius: 0 40px 0 0;
+    }
+
 }
