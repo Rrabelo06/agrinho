@@ -22,13 +22,13 @@ body{
 h2{
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
-    color: #fff;
+    color: #67cfff;
 }
 
 p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
-    color: #fff;
+    color: #ffffff;
 }
 
 .imagem{
@@ -56,4 +56,34 @@ p{
     background-color: #00000000;
     color: #fff;
     width: 50px;
+}
+
+.imagem-trator{
+    width: 100%;
+}
+
+.imagens-1{
+    display: grid;
+    grid-template-columns: 12% 32% 12% 32% 12%;
+    padding: 10px;
+}
+
+.imagens-2{
+    display: grid;
+    grid-template-columns:20% 60% 20%;
+    padding: 10px;
+}
+
+.maquinarios{
+    text-align: center;
+}
+
+.nome-maquinario{
+    text-align: center;
+    color: #fff;
+    font-size: 30px;;
+}
+
+.imagem-trator-colheitadeira{
+    width: 100%;
 }
