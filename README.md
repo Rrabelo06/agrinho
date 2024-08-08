@@ -1,1 +1,6 @@
-# agrinho
+  Este projeto é um site dedicado ao tema Agro 4.0, que explora a transformação digital na agricultura através da tecnologia e inovação, conectando o campo a cidade. 
+    O objetivo é fornecer informações, recursos e ferramentas para agricultores, profissionais do setor agropecuário e interessados em adotar práticas mais eficientes e sustentáveis.
+  O site abordará temas como: Internet das Coisas (IoT), Big Data, inteligência artificial, maquinário tecnológico avançado e sistemas de precisão de GPS. Além disso, inclui entrevista com agricultor Gabriel Eduardo dos Santos que está implementando essas tecnologias em suas práticas diárias, compartilhando experiências e insights sobre os benefícios e desafios enfrentados na adoção de soluções inovadoras no campo, apresentando seus implementos e como a tecnologia tem sido uma ferramenta essencial para se ter uma lavoura com uma boa produção e qualidade.
+     Exemplos de maquinários utilizados na agricultura moderna incluem: trator MF 7725, conhecido por sua potência e eficiência; o FENDT 942, que se destaca pela tecnologia de ponta e conforto; o MF 7217, que combina robustez com economia de combustível; e o NEW HOLLAND TC5090, ideal para colheitas com alta produtividade. Além disso, a plantadeira STARA PRINCESA DPS 12 será apresentada como uma solução inovadora para semeadura precisa.
+    O site contém fotos desses implementos, ao clicar nessas imagens, você será redirecionado para a página web de seus fabricantes, utilizando os links de suas respectivas marcas.
+    
